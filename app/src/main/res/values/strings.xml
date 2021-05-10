@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="tv_name">Name:</string>
+    <string name="hint_Name">Enter your name</string>
+    <string name="tv_mobile_phone">Mobile Phone:</string>
+    <string name="hint_phone">81234567</string>
+    <string name="tv_Pax">Size of Group:</string>
+    <string name="hint_Pax">Enter no. of Pax</string>
+    <string name="tv_Date">Reservation Date:</string>
+    <string name="tv_Time">Reservation Time:</string>
+    <string name="tv_TableArea">Area of Table placement:</string>
+    <string name="tb_off">Non-Smoking</string>
+    <string name="tb_on">Smoking</string>
+    <string name="btn_reserve">Reserve</string>
+    <string name="btn_reset">Reset</string>
+</resources>
